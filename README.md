@@ -1,6 +1,22 @@
 # Kuhn-Munkres-Algorithm
-A python program to solve assignment problem by the Kuhn–Munkres algorithm (The Hungarian Method). The Hungarian method is a combinatorial optimization algorithm that solves the assignment problem in polynomial time.
+## Description
+This Python program solves the assignment problem using the Kuhn-Munkres algorithm, also known as the Hungarian method. The Hungarian method is a combinatorial optimization algorithm that finds the optimal assignment in polynomial time.
 
+## Features
+- Accepts input matrix for the assignment problem
+- Provides a user-friendly interface to input the matrix values
+- Includes an option to parse a string representation of the matrix
+- Outputs the optimal assignment solution
+
+## Usage
+1. Define the size of the input matrix.
+2. Enter the values of the matrix.
+3. Click the "Solve" button to get the optimal assignment solution.
+4. Alternatively, you can provide a string representation of the matrix and click the "Parser" button to parse the input.
+
+The program will display the optimal assignment solution based on the Kuhn-Munkres algorithm.
+
+# Quick Demo exemple : 
 ## Start by defining the size of the matrix:
 ![1](https://user-images.githubusercontent.com/50090593/138393658-9cc3e27e-9fd0-4023-b8e0-05aa03d4a212.png)
 
